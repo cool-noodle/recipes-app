@@ -2,7 +2,7 @@
     {
         "menuId": 1,
         "name": "לחם תירס",
-        "description": "לחם תירס מאוד טעים",
+        "description": "לחם תירס טעים",
         "thumbnail_image": "/corn_bread.jpg",
         "category": "breadsAndSavoryBakes",
         "ingredients": [
@@ -24,7 +24,7 @@
             },
             {
                 "name": "סוכר",
-                "quantity": "פחות מ¼ כוס סוכר"
+                "quantity": "פחות מ-¼ כוס"
             },
             {
                 "name": "אבקת אפיה",
@@ -40,14 +40,14 @@
             }
         ],
         "instructions": [
-            "מערבבים את כל המרכיבים בקערה.",
-            "שופכים לתבנית אינגליש קייק.",
-            "מכניסים לתנור על 180 מעלות לחצי שעה."
+            "מערבבים את המרכיבים בקערה.",
+            "מכניסים לתבנית מלבנית (אינגליש קייק).",
+            "שמים בתנור על 180 מעלות ל25-30 דקות."
         ],
         "more": {
-            "prep_time": "15",
+            "prep_time": "10",
             "cook_time": "30",
-            "servings": "אינגליש קייק",
+            "servings": "תבנית מלבנית",
             "difficulty": "קל"
         }
     },
@@ -1502,58 +1502,6 @@
     },
     {
         "menuId": 23,
-        "name": "לחם תירס",
-        "description": "לחם תירס טעים",
-        "thumbnail_image": "/corn_bread.jpg",
-        "category": "breadsAndSavoryBakes",
-        "ingredients": [
-            {
-                "name": "קמח",
-                "quantity": "כוס"
-            },
-            {
-                "name": "קמח תירס",
-                "quantity": "כוס"
-            },
-            {
-                "name": "חלב",
-                "quantity": "כוס"
-            },
-            {
-                "name": "ביצה",
-                "quantity": "1"
-            },
-            {
-                "name": "סוכר",
-                "quantity": "פחות מ-¼ כוס"
-            },
-            {
-                "name": "אבקת אפיה",
-                "quantity": "כפית"
-            },
-            {
-                "name": "שמן",
-                "quantity": "¼ כוס"
-            },
-            {
-                "name": "מלח",
-                "quantity": "½ כפית"
-            }
-        ],
-        "instructions": [
-            "מערבבים את המרכיבים בקערה.",
-            "מכניסים לתבנית מלבנית (אינגליש קייק).",
-            "שמים בתנור על 180 מעלות ל25-30 דקות."
-        ],
-        "more": {
-            "prep_time": "10",
-            "cook_time": "30",
-            "servings": "תבנית מלבנית",
-            "difficulty": "קל"
-        }
-    },
-    {
-        "menuId": 24,
         "name": "לחם סולת",
         "description": "לחם סולת של סבתא",
         "thumbnail_image": "/semolina_bread.jpg",
@@ -1600,7 +1548,7 @@
         }
     },
     {
-        "menuId": 25,
+        "menuId": 24,
         "name": "פנקייקים",
         "description": "מתכון לפנקייקס",
         "thumbnail_image": "/pancakes.jpg",
@@ -1655,7 +1603,7 @@
         }
     },
     {
-        "menuId": 26,
+        "menuId": 25,
         "name": "טארט תפוחים וקרם שקדים",
         "description": "טארט תפוחים וקרם שקדים עם בצק פריך חמאתי, קרם שקדים ומתיקות מעודנת",
         "thumbnail_image": "/apple_tart.jpg",
@@ -1741,7 +1689,7 @@
         }
     },
     {
-        "menuId": 27,
+        "menuId": 26,
         "name": "מגולגלות תמרים",
         "description": "עוגיות תמרים מגולגלות של אמא",
         "thumbnail_image": "/date_cookies.jpg",
@@ -1809,7 +1757,7 @@
         }
     },
     {
-        "menuId": 28,
+        "menuId": 27,
         "name": "לחם כוח",
         "description": "לחם כוח עם פירות יבשים לט\"ו בשבט",
         "thumbnail_image": "/power_bread.jpg",
