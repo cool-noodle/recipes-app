@@ -1,0 +1,37 @@
+/////////// RECIPE /////////// 
+
+{
+    "menuId": 1,
+    "name": "",
+    "description": "",
+    "thumbnail_image": "",
+    "category": "",
+    "tags": [],
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "",
+            "title": ""
+        }
+    ],
+    "instructions": [],
+    "notes": [],
+    "comments": {
+        "user": "",
+        "comment": ""
+        },
+    "more": {
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "",
+        "difficulty": "",
+        "source": ""
+    }
+}
+
+/////////// CATEGORY /////////// 
+
+{
+    "name": "salads",
+    "menuId": "1"
+}

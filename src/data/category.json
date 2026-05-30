@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "name": "salads",
+        "label": "סלטים"
+    },
+    {
+        "id": "2",
+        "name": "soupsAndStews",
+        "label": "מרקים ותבשילים"
+    },
+    {
+        "id": "3",
+        "name": "breadsAndSavoryBakes",
+        "label": "מאפים ולחמים"
+    },
+    {
+        "id": "4",
+        "name": "pies",
+        "label": "פשטידות"
+    },
+    {
+        "id": "5",
+        "name": "cakes",
+        "label": "עוגות"
+    },
+    {
+        "id": "6",
+        "name": "cookies",
+        "label": "עוגיות"
+    },
+    {
+        "id": "7",
+        "name": "desserts",
+        "label": "קינוחים"
+    },
+    {
+        "id": "8",
+        "name": "default",
+        "label": "לא מוגדר"
+    }
+]
